@@ -1,8 +1,8 @@
 Package: goodreadr
-Title: What the Package Does (One Line, Title Case)
+Title: Plot Your Reading History
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Erin", "Becker", , "erinstellabecker@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
@@ -12,3 +12,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 URL: https://github.com/ErinBecker/goodreadr
 BugReports: https://github.com/ErinBecker/goodreadr/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
