@@ -4,6 +4,8 @@
 # goodreadr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ErinBecker/goodreadr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ErinBecker/goodreadr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of goodreadr is to provide functionality to make plots and
