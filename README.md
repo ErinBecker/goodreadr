@@ -11,6 +11,10 @@
 The goal of goodreadr is to provide functionality to make plots and
 analyse data output from Goodreads.com.
 
+Note: This is a toy package that I’m using to learn about package
+development. It doesn’t do anything useful yet, and might never do
+anything useful. Please don’t use it!
+
 ## Installation
 
 You can install the development version of goodreadr from
